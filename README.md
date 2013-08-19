@@ -1,4 +1,3 @@
-trijug_welcome
-==============
+# Welcome TriJUG!
 
-A repo used to help welcome new GitHub Users!
+This repo is serving as a holding place for us to ask questions to one another via issues
